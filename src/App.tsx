@@ -5,7 +5,7 @@ function App() {
 
 
   // gestion de la simulation
-    const [simulationTourne, setSimulationTourne] = useState(false);  
+  const [simulationTourne, setSimulationTourne] = useState(false);
 
 
   // type d'étatHumain défini par un nom et une couleur
